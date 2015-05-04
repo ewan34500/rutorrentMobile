@@ -3,25 +3,25 @@
  * Author: Carlos Jimenez Delgado (mail@carlosjdelgado.com)
  * License: GNU General Public License
  **********************************************************/
-theUILang.areYouShure = 'Do you really want to remove torrent?';
+theUILang.areYouShure = 'Voulez vous réellemen supprimer ce  torrent?';
 
 theUILang.Date = 		'Date';
-theUILang.Progress = 	'Progress';
-theUILang.Ascending = 	'Ascending';
-theUILang.Descending = 	'Descending';
+theUILang.Progress = 	'Progression';
+theUILang.Ascending = 	'Ascendant';
+theUILang.Descending = 	'Descendant';
 
 theUILang.Configuration = 	'Configuration';
 
 theUILang.Menu = 	'Menu';
-theUILang.Filter = 	'Filter';
+theUILang.Filter = 	'Filtre';
 
-theUILang.Back = 	'Back';
-theUILang.Ok = 		'Acept';
+theUILang.Back = 	'Retour';
+theUILang.Ok = 		'Accepter';
 
-theUILang.DownloadLimit = 	'Download limit';
-theUILang.UploadLimit =		'Upload limit';
+theUILang.DownloadLimit = 	'Limite de Download';
+theUILang.UploadLimit =		'Limite d\'Upload';
 
-theUILang.InserUrlLabel =	'Set torrent file URL';
+theUILang.InserUrlLabel =	'Entrer l\'URL du fichier Torrent;
 
 theUILang.Actions =	'Actions';
 
